@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MovieCatalog2</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="description">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="change_language_settings">Choose Language</string>
+    <string name="overview">Overview</string>
+    <string name="moviecatalog">MOVIECATALOG</string>
+    <string name="title_tv">Arrow</string>
+    <string-array name="data_title_tv">
+        <item>Shameless (2011)</item>
+        <item>Naruto Shippuden (2007)</item>
+        <item>Gotham (2014)</item>
+        <item>The Flash (2014)</item>
+        <item>Family Guy (1999)</item>
+        <item>Dragon Ball (1986)</item>
+        <item>Arrow (2012)</item>
+        <item>Iron Fist (2017)</item>
+        <item>Supergirl (2015)</item>
+        <item>Supernatural (2005)</item>
+    </string-array>
+    <string-array name="data_description_tv">
+        <item>Chicagoan Frank Gallagher is a proud single father of six intelligent, diligent, independent children, without whom it might be better. When Frank wasn\'t at the bar spending the little money they had, he fainted on the floor. But children have found a way to grow despite him. They may not be like the family you know, but they don\'t apologize for being who they really are.</item>
+        <item>Naruto Shippuuden is a continuation of the original Naruto TV series. This story is about the older and slightly more mature Uzumaki Naruto and his efforts to save his friend Uchiha Sasuke from Shinobi clutches like snakes, Orochimaru. After 2 and a half years, Naruto finally returned to his village of Konoha, and began to realize his ambition, although it would not be easy, because he had gathered several enemies (more dangerous), such as shinobi organizations.  Akatsuki.</item>
+        <item>Before there was Batman, there was GOTHAM. Everyone knows Commissioners name Gordon. He is one of the greatest enemies of the world of evil, a man whose reputation is synonymous with law and order. But what is known about Gordon\'s story and his rise from novice detectives to the Police Commissioner What is needed to navigate the various layers of corruption that secretly govern Gotham City, where the most iconic criminals in the world spawn And what circumstances created them - the person who is bigger than life who will become Catwoman, The Penguin, The Riddler, TwoFace and The Joker</item>
+        <item>After the particle accelerator caused a strange storm, CSI Barry Allen Investigator was struck by lightning and fell into a coma. A few months later he woke up with super speed power, giving him the ability to move through Central City like an invisible guardian angel. Although initially pleased with his new strength, Barry was surprised to find that he was not the only meta man created after the accelerator explosion - and not everyone used their new strength for good. Barry partnered with S.T.A.R. Lab and dedicate his life to protecting the innocent. For now, only a few close friends and colleagues know that Barry is literally the fastest man, but not long before the world learned what Barry Allen The Flash was.</item>
+        <item>Freakin Sweets animated series, which is sick, twisted and wrong, displays the dysfunctional Griffin family adventure. Clumsy Peter and Lois who have suffered three children. Stewie (a brilliant but sadistic baby who is determined to kill her mother and take over the world), Meg (the oldest, and most unpopular girl in town) and Chris (middle child, she is not too smart but has a passion for movies). The last member of the family is Brian - a dog that can talk and more than a pet, he looks after Stewie, while sipping Martinis and sorting out his own life problems.</item>
+        <item>Once upon a time in the mountains, a battle master known as Gohan found a strange boy whom he named Goku. Gohan raises him and trains Goku in martial arts until he dies. The young and very strong boy is alone, but easy to manage. Then one day, Goku met a teenage girl named Bulma, whose search for a dragon ball took her to Goku\'s house. Together, they set out to find the seven dragon balls in an adventure that will change Goku\'s life forever. See how Goku met friends for the rest of his life Bulma, Yamcha, Krillin, Master Roshi and many more. And look at his adventures as a boy, all leading to Dragonball Z and then Dragonball GT.</item>
+        <item>The spoiled billionaire Playboy, Oliver Queen, was lost and allegedly killed when his cruise ship disappeared at sea. He returned five years later, a man who changed, determined to clean the city as a vigilante armed with a bow. DC is Green Arrow</item>
+        <item>Danny Rand reappeared 15 years after being considered dead. Now, with the power of Iron Fist, he is trying to reclaim his past and fulfill his destiny.</item>
+        <item>Kara Zor-El, 24, who was arrested by the Danvers when she was 13 years old after being expelled from Krypton, had to learn to embrace her strength after previously hiding it. Danvers taught him to be careful of his strength, until he had to reveal it during an unexpected disaster, placing him on his heroic journey.</item>
+        <item>When they were little, Sam and Dean Winchester lost their mothers because of mysterious magical powers and demons. Furthermore, their father raised them to become soldiers. He taught them about paranormal crimes that lived in dark corners and on the back streets of America and he taught them how to kill him. Now, the Winchester brothers are exploring the country with their Chevy Impala, fighting every kind of supernatural threat they encounter along the way.</item>
+    </string-array>
+    <array name="data_poster_tv">
+        <item>@drawable/poster_shameless</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+    </array>
+    <string-array name="data_title">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>A Star Is Born (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Venom (2018)</item>
+        <item>Bumblebee (2018)</item>
+        <item>Robin Hood (2018)</item>
+        <item>Aquaman (2018)</item>
+        <item>Bird Box (2018)</item>
+        <item>Once Upon a Deadpool (2018)</item>
+        <item>Glass (2019)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>When the Avengers and their allies continue to protect the world from threats that are too big to be handled by one hero, new dangers have emerged from the cosmic shadow: Thanos. An intergalactic despotic despot, the goal is to collect all six Infinity Stones, unimaginable power artifacts, and use them to cause his twisted desire in all reality. Everything Avengers has been fighting for has led to the present - the fate of the Earth and its own existence has never been more certain.</item>
+        <item>Seasoned musician Jackson Maine discovered - and fell in love with - artists who were struggling Ally. He had just given up on his dream of becoming a singer - until Jack persuaded him to be in the spotlight. But even when Ally\'s career took off, the personal side of their relationship was destroyed, when Jack fought constantly with his own internal demons.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon took the world of music by storm when they formed the rock n roll band Queen in 1970. Hit songs became instant classics. When Mercury\'s increasingly wild lifestyle began to run out of control, Queen immediately faced her biggest challenge - finding ways to keep the band together amid successes and strengths.</item>
+        <item>Investigative journalist Eddie Brock tries to return after the scandal, but accidentally hosts Venom, a powerful and powerful alien symbiot. Soon, he must rely on his new strength to protect the world from shadow organizations that are looking for their own symbiosis.</item>
+        <item>On the run in 1987, Bumblebee found a refuge in a junkyard in the small coastal city of California. Charlie, at the peak of age 18 and tries to find his place in the world, finds Bumblebee, a battle and broken scar. When Charlie turned it on, he quickly learned that this was not an ordinary yellow VW bug.</item>
+        <item>A hard war fighter and his Moorish commander makes a brave rebellion against a corrupt British crown.</item>
+        <item>Formerly home to the most advanced civilization on Earth Atlantis is now an underwater kingdom ruled by a power-hungry King Orm. With a huge army, the Orm planned to conquer the remaining oceans and then to the surface of the world. What was blocking his path was Arthur Curry half-human half-brother Orm and the true heir to the throne.</item>
+        <item>Five years after an unpleasant, invisible presence made most people commit suicide, a survivor and two children made desperate efforts to achieve salvation.</item>
+        <item>The abducted Fred Savage was forced to withstand the Deadpool PG-13 rendition of Deadpool 2 as a Princess Bride-esque story full of miracles, wonders and zero F.</item>
+        <item>In a series of increasing meetings, former security guard David Dunn used his supernatural abilities to track down Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the presence of Elijah Price\'s shadow appears as an orchestra that holds important secrets for both.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+    </array>
+</resources>

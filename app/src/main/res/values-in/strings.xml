@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MovieCatalog2</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Serial TV</string>
+    <string name="description">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="change_language_settings">Pilih Bahasa</string>
+    <string name="overview">Overview</string>
+    <string name="moviecatalog">MOVIECATALOG</string>
+    <string name="title_tv">Arrow</string>
+    <string-array name="data_title_tv">
+        <item>Shameless (2011)</item>
+        <item>Naruto Shippuden (2007)</item>
+        <item>Gotham (2014)</item>
+        <item>The Flash (2014)</item>
+        <item>Family Guy (1999)</item>
+        <item>Dragon Ball (1986)</item>
+        <item>Arrow (2012)</item>
+        <item>Iron Fist (2017)</item>
+        <item>Supergirl (2015)</item>
+        <item>Supernatural (2005)</item>
+    </string-array>
+    <string-array name="data_description_tv">
+        <item>Chicagoan Frank Gallagher adalah ayah tunggal yang bangga dari enam anak yang cerdas, rajin, mandiri, yang tanpanya mungkin lebih baik. Ketika Frank tidak di bar menghabiskan sedikit uang yang mereka miliki, dia pingsan di lantai. Tetapi anak-anak telah menemukan cara untuk tumbuh meskipun dia. Mereka mungkin tidak seperti keluarga yang Anda kenal, tetapi mereka tidak meminta maaf karena menjadi diri mereka yang sebenarnya.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.</item>
+        <item>Sebelum ada Batman, ada GOTHAM. Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen The Flash.</item>
+        <item>Seri animasi-animasi Freakin Sweet yang sakit, terpelintir, dan salah, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan yang akan mengubah hidup Goku selamanya. Lihat bagaimana Goku bertemu teman-teman seumur hidupnya Bulma, Yamcha, Krillin, Master Roshi dan banyak lagi. Dan lihat petualangannya sebagai anak laki-laki, semuanya mengarah ke Dragonball Z dan kemudian Dragonball GT.</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur. DC adalah Green Arrow</item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika  dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala 67 mereka, memerangi setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan.</item>
+    </string-array>
+    <array name="data_poster_tv">
+        <item>@drawable/poster_shameless</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+    </array>
+    <string-array name="data_title">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>A Star Is Born (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Venom (2018)</item>
+        <item>Bumblebee (2018)</item>
+        <item>Robin Hood (2018)</item>
+        <item>Aquaman (2018)</item>
+        <item>Bird Box (2018)</item>
+        <item>Once Upon a Deadpool (2018)</item>
+        <item>Glass (2019)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition of Deadpool 2 sebagai cerita Princess Bride-esque yang penuh dengan keajaiban, keajaiban dan nol F.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+    </array>
+</resources>
