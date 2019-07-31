@@ -4,27 +4,27 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 public class Movie implements Parcelable {
-    public int getPoster() {
+    int getPoster() {
         return poster;
     }
 
-    public void setPoster(int poster) {
+    void setPoster(int poster) {
         this.poster = poster;
     }
 
-    public String getTitle() {
+    String getTitle() {
         return title;
     }
 
-    public void setTitle(String title) {
+    void setTitle(String title) {
         this.title = title;
     }
 
-    public String getDescription() {
+    String getDescription() {
         return description;
     }
 
-    public void setDescription(String description) {
+    void setDescription(String description) {
         this.description = description;
     }
 
@@ -44,10 +44,10 @@ public class Movie implements Parcelable {
         dest.writeString(this.description);
     }
 
-    public Movie() {
+    Movie() {
     }
 
-    protected Movie(Parcel in) {
+    private Movie(Parcel in) {
         this.poster = in.readInt();
         this.title = in.readString();
         this.description = in.readString();

@@ -8,20 +8,19 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import java.util.ArrayList;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.CategoryViewHolder> {
-    public MovieAdapter(Context context) {
-        this.context = context;
+    MovieAdapter(Context context) {
+        Context context1 = context;
     }
 
-    private final Context context;
-
-    public ArrayList<Movie> getListmovie() {
+    private ArrayList<Movie> getListmovie() {
         return listmovie;
     }
 
-    public void setListmovie(ArrayList<Movie> listmovie) {
+    void setListmovie(ArrayList<Movie> listmovie) {
         this.listmovie = listmovie;
     }
 
@@ -46,12 +45,12 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.CategoryView
         return getListmovie().size();
     }
 
-    public class CategoryViewHolder extends RecyclerView.ViewHolder {
+    class CategoryViewHolder extends RecyclerView.ViewHolder {
         TextView tvTitle;
         TextView tvDescription;
         ImageView imgPhoto;
 
-        public CategoryViewHolder(@NonNull View itemView) {
+        CategoryViewHolder(@NonNull View itemView) {
             super(itemView);
             tvTitle = itemView.findViewById(R.id.tv_item_title);
             tvDescription = itemView.findViewById(R.id.tv_item_description);

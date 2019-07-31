@@ -12,17 +12,17 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class TvshowAdapter extends RecyclerView.Adapter<TvshowAdapter.CategoryViewHolder> {
-    public TvshowAdapter(Context context) {
+    TvshowAdapter(Context context) {
         this.context = context;
     }
 
     private final Context context;
 
-    public ArrayList<Tvshow> getListtv() {
+    private ArrayList<Tvshow> getListtv() {
         return listtv;
     }
 
-    public void setListtv(ArrayList<Tvshow> listtv) {
+    void setListtv(ArrayList<Tvshow> listtv) {
         this.listtv = listtv;
     }
 
@@ -47,12 +47,12 @@ public class TvshowAdapter extends RecyclerView.Adapter<TvshowAdapter.CategoryVi
         return getListtv().size();
     }
 
-    public class CategoryViewHolder extends RecyclerView.ViewHolder {
+    class CategoryViewHolder extends RecyclerView.ViewHolder {
         TextView tvTitle;
         TextView tvDescription;
         ImageView imgPhoto;
 
-        public CategoryViewHolder(@NonNull View itemView) {
+        CategoryViewHolder(@NonNull View itemView) {
             super(itemView);
             tvTitle = itemView.findViewById(R.id.tv_item_title_tv);
             tvDescription = itemView.findViewById(R.id.tv_item_description_tv);
