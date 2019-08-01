@@ -138,7 +138,7 @@ ItemClickSupport.addTo(rvCategory).setOnItemClickListener(new ItemClickSupport.O
 ```java
  adapter = new MovieAdapter(getActivity());
 ```
-#### Oh Iya Satu Agi Untuk Menerapkan Parcalabe Ini Contohnya
+#### Oh Iya Satu Lagi Untuk Menerapkan Parcalabe Ini Contohnya
 ```java
 public class DetailActivity extends AppCompatActivity {
 
